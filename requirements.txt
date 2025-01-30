@@ -2,4 +2,4 @@ pandas
 numpy
 transformers
 torch
-scikit-learn=
+scikit-learn
