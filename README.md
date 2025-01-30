@@ -1,5 +1,3 @@
-# AiHello_Challenge2
-
 # AI Hello Candidate Ranking System
 
 This project implements a candidate ranking system for matching job seekers with suitable employers.  It leverages BERT embeddings for semantic similarity matching between job descriptions and candidate profiles, combined with a rule-based system to assess how well candidates meet specific job requirements.
